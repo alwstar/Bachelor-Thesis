@@ -1,8 +1,6 @@
 # Bachelorarbeit „Effiziente Verteilung von Vorhersageergebnissen in einem hierarchischen Prognosemodell“
 
-# Efficient Distribution of Forecast Results in a Hierarchical Prediction Model
-
-This repository contains the implementation and research conducted for my bachelor thesis on hierarchical time series forecasting models. The project focuses on developing efficient methods for distributing forecast results across different hierarchical levels while maintaining forecast accuracy and reducing computational costs.
+This repository contains research conducted for my bachelor thesis on hierarchical time series forecasting models. The project focuses on developing efficient methods for distributing forecast results across different hierarchical levels while maintaining forecast accuracy and reducing computational costs.
 
 ## Project Overview
 
